@@ -1,5 +1,8 @@
 _repo: The-Bark-Covered-House--13-Or-Back-In-the-Woods-Again--Being-a-Graphic-and-Thrilling-Descripti__9949
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Nowlin, William
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '3216'
     url: http://www.gutenberg.org/2009/agents/3216
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/9949#The-Bark-Covered-House--13-Or-Back-In-the-Woods-Again--Being-a-Graphic-and-Thrilling-Descripti_
 gutenberg_issued: '2006-02-01'
 gutenberg_type: Text
 identifiers:
